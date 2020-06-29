@@ -2,11 +2,6 @@
 
 This code does soft max experiment sampling for active learning applications. 
 
-## Installation
-
-Download the source code from the IBMRxn_RawCode file or IBMRxn_wDemo for the code + a demonstration of its uses. 
-
-
 ## Usage
 All calls to the function are completed by inputting the correct model, followed by either the amine of choice and descriptor or just the correct sampling dataset.
 ```bash
