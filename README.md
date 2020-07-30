@@ -13,4 +13,4 @@ Possible options for the goal include exploration and exploitation. Exploration 
 Any support related inquiries may be directed to wborrelli@fordham.edu. 
 
 ## Authors and Acknowledgement
-Dr. Joshua Schrier, Kim B. and Stephen E. Bepler Chair Professor of Chemistry at Fordham University, was immensely helpful in all aspects of this project. 
+Dr. Joshua Schrier, Kim B. and Stephen E. Bepler Chair of Chemistry at Fordham University, was immensely helpful in all aspects of this project. 
